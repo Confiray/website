@@ -1,0 +1,1 @@
+console.log("ConfiRay v0.4");
